@@ -12,7 +12,11 @@ Avaliação técnica - Automatização de cenários Bugbank utilizando Cypress c
 Passos para executar o projeto:
 
 1º Acessar a pasta do projeto via CMD.
+
 2º Adicionar o comando cpm add cypress
+
 3º Digitar npx cypress open
+
 4º Selecionar a opção E2E Testing e utilizar o navegador de sua escolha.
+
 5º Escolher os cenários "test.cy"
