@@ -13,7 +13,7 @@ Passos para executar o projeto:
 
 1º Acessar a pasta do projeto via CMD.
 
-2º Adicionar o comando cpm add cypress
+2º Adicionar o comando npm add cypress typescript
 
 3º Digitar npx cypress open
 
