@@ -1,0 +1,15 @@
+{
+  "name": "avaliacao-tecnica",
+  "version": "1.0.0",
+  "description": "avaliacao tecnica Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Henrique Santos Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.2",
+    "typescript": "^5.4.3"
+  }
+}
